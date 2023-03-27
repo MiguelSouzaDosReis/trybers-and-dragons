@@ -1,6 +1,6 @@
 # Project Trybers and Dragons
 
-Neste projeto eu aprendi Programação Orientada a Objetos (POO) e SOLID, assim realizando os desafios propostos pela Trybe
+Neste projeto, eu tive a oportunidade de aprofundar meus conhecimentos em Programação Orientada a Objetos (POO) e SOLID, que são importantes conceitos na construção de softwares escaláveis e de qualidade
 
 ### Os desafios foram
 
